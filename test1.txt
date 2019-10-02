@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7459-5E81
+
+ Directory of C:\Users\Fboahene.UNCLEBUCK\Desktop\myProject
+
+02/10/2019  17:47    <DIR>          .
+02/10/2019  17:47    <DIR>          ..
+02/10/2019  17:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,168,398,336 bytes free
